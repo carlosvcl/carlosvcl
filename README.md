@@ -60,7 +60,6 @@ Sou **Técnico de Suporte Nível 2** na Techcom Tecnologia e Informática e estu
 - **[Nome do Projeto 2](link-para-o-repo-ou-projeto)**: Outro projeto interessante.
 - **samy-bot-docs**: Documentação, Termos de Serviço e Política de Privacidade para o bot Samy. (Seu projeto já fixado)
 
-_**Dica:**_ Crie um bom `README.md` para cada um desses projetos também, explicando o que eles fazem, como executá-los e as tecnologias envolvidas.
 
 ---
 
