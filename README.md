@@ -52,16 +52,6 @@ Sou **Técnico de Suporte Nível 2** na Techcom Tecnologia e Informática e estu
 
 ---
 
-### 🚀 Meus Projetos em Destaque
-
-*Aqui é um ótimo lugar para mostrar o que você construiu! Adicione links para seus melhores repositórios do GitHub.*
-
-- **[Nome do Projeto 1](link-para-o-repo-ou-projeto)**: Breve descrição do projeto. Destaque as tecnologias que você usou (ex: Python, SQL) e o que você aprendeu ou conquistou com ele. *Por exemplo, os scripts de automação que você desenvolveu no curso de Python poderiam ser um projeto aqui, se estiverem no GitHub.*
-- **[Nome do Projeto 2](link-para-o-repo-ou-projeto)**: Outro projeto interessante.
-- **samy-bot-docs**: Documentação, Termos de Serviço e Política de Privacidade para o bot Samy. (Seu projeto já fixado)
-
-
----
 
 ### 📊 Minhas Estatísticas do GitHub (Opcional)
 
