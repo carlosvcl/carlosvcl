@@ -1,7 +1,6 @@
 # Olá, eu sou o Carlos Gomes 👋
 
 <a href="https://linkedin.com/in/carlos-gomes-6aba17226">
-  <img align="left" width="200" height="200" src="URL_DA_SUA_FOTO_SE_QUISER_UMA_DIFERENTE_AQUI">
 </a>
 
 Sou Técnico de Suporte II e estudante de Sistemas de Informação, apaixonado por resolver problemas e desenvolver soluções inovadoras. Minhas certificações CCNAv7 e IT Essentials solidificaram minha base em redes e hardware, e agora estou mergulhando no mundo do [mencione algo específico, ex: desenvolvimento web, análise de dados, segurança].
