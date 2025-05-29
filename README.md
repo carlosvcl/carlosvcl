@@ -57,7 +57,6 @@ Sou **Técnico de Suporte Nível 2** na Techcom Tecnologia e Informática e estu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlosvcl&show_icons=true&theme=radical&locale=pt-br&count_private=true&hide_rank=true" alt="Estatísticas do GitHub de Carlos"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvcl&layout=compact&theme=radical&locale=pt-br" alt="Linguagens Mais Usadas por Carlos"/>
 </p>
 
 ---
