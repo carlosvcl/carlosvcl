@@ -5,7 +5,6 @@
 
 Sou **Técnico de Suporte Nível 2** na Techcom Tecnologia e Informática e estudante de **Bacharelado em Sistemas de Informação** na Descomplica. Estou em busca de novas oportunidades para prosseguir com a carreira na área de informática, onde poderei aplicar minhas capacidades técnicas e minha busca por ideias inovadoras para impactar grandemente a equipe e os empreendimentos da organização.
 
-Minha paixão é resolver problemas e otimizar processos, com um foco crescente no desenvolvimento de software e análise de dados.
 
 ---
 
