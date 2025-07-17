@@ -1,14 +1,8 @@
-# Olá, eu sou Carlos Henrique Gomes Batista 👋
-
 <p align="center">
   <img src="https://i.gifer.com/7IjS.gif" alt="Gato digitando no teclado" width="200" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlos-gomes-6aba17226" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Carlos Gomes"/>
-  </a>
-</p>
+# Olá, eu sou Carlos Henrique Gomes Batista 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
