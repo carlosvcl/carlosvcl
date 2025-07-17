@@ -63,9 +63,9 @@ Sou **Técnico de Suporte Nível 2** na Techcom Tecnologia e Informática e estu
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosvcl&show_icons=true&theme=onedark&locale=pt-br&count_private=true&hide_rank=true" alt="Estatísticas do GitHub de Carlos"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvcl&layout=compact&theme=onedark&locale=pt-br" alt="Linguagens Mais Usadas por Carlos"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosvcl&theme=onedark&hide_border=true&locale=pt_BR" alt="GitHub Streak de Carlos"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosvcl&show_icons=true&theme=radical&locale=pt-br&count_private=true&hide_rank=true" alt="Estatísticas do GitHub de Carlos"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvcl&layout=compact&theme=radical&locale=pt-br" alt="Linguagens Mais Usadas por Carlos"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosvcl&theme=radical&hide_border=true&locale=pt_BR" alt="GitHub Streak de Carlos"/>
 </p>
 
 ---
