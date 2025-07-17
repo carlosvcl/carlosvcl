@@ -1,9 +1,5 @@
 # Olá, eu sou Carlos Henrique Gomes Batista 👋
 
-<a href="https://www.linkedin.com/in/carlos-gomes-6aba17226" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Carlos Gomes"/>
-</a>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
