@@ -1,8 +1,8 @@
 # Olá, eu sou Carlos Henrique Gomes Batista 👋
 
-<p align="center">
+<div align="center">
   <img src="https://usagif.com/wp-content/uploads/cat-typing-16.gif" alt="Gato digitando no teclado" width="200" />
-</p>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-gomes-6aba17226" target="_blank">
@@ -15,8 +15,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
@@ -55,7 +54,7 @@ Sou **Técnico de Suporte Nível 2** na Techcom Tecnologia e Informática e estu
 
 ### 📚 Cursos e Certificações
 
-- **IT Essentials: PC Hardware e Software** - Cisco (72h, 2022)
+- **IT Essentials: PC Hardware and Software** - Cisco (72h, 2022)
   - *Manutenção e configuração de computadores, redes e sistemas operacionais.*
 - **CCNAv7: Introduction to Networks** - Cisco (70h, 2022)
   - *Fundamentos de redes de computadores, protocolos e configuração de dispositivos de rede.*
