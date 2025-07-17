@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://usagif.com/wp-content/uploads/cat-typing-16.gif" alt="Cat coding" width="200"/>
+  <img src="https://usagif.com/wp-content/uploads/cat-typing-16.gif" alt="Gato digitando no teclado" width="200"/>
 </p>
 
 # Olá, eu sou Carlos Henrique Gomes Batista 👋
