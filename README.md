@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://i.gifer.com/7IjS.gif" alt="Gato digitando no teclado" width="200" />
-</p>
+<div align="center">
+  <img height="200" src="https://i.gifer.com/7IjS.gif"  />
+</div>
 
 # Olá, eu sou Carlos Henrique Gomes Batista 👋
 
