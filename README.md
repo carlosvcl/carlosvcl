@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://usagif.com/wp-content/uploads/cat-typing-16.gif" alt="Gato digitando no teclado" width="200"/>
-</p>
+<div align="center">
+  <img height="200" src="https://usagif.com/wp-content/uploads/cat-typing-16.gif"  />
+</div>
 
 # Olá, eu sou Carlos Henrique Gomes Batista 👋
 
