@@ -1,17 +1,21 @@
 # Olá, eu sou Carlos Henrique Gomes Batista 👋
 
 <div align="center">
-  <img height="200" src="https://usagif.com/wp-content/uploads/cat-typing-16.gif"  />
+  <img src="https://usagif.com/wp-content/uploads/cat-typing-16.gif" alt="Gato digitando no teclado" width="200" />
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-gomes-6aba17226" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Carlos Gomes"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
@@ -68,9 +72,9 @@ Sou **Técnico de Suporte Nível 2** na Techcom Tecnologia e Informática e estu
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosvcl&show_icons=true&theme=radical&locale=pt-br&count_private=true&hide_rank=true" alt="Estatísticas do GitHub de Carlos"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvcl&layout=compact&theme=radical&locale=pt-br" alt="Linguagens Mais Usadas por Carlos"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosvcl&theme=radical&hide_border=true&locale=pt_BR" alt="GitHub Streak de Carlos"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosvcl&show_icons=true&theme=radical&locale=pt-br&count_private=true&hide_rank=true" alt="Estatísticas do GitHub de Carlos"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvcl&layout=compact&theme=radical&locale=pt-br" alt="Linguagens Mais Usadas por Carlos"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosvcl&theme=radical&hide_border=true&locale=pt_BR" alt="GitHub Streak de Carlos"/>
 </p>
 
 ---
