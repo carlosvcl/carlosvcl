@@ -1,7 +1,7 @@
 # Olá, eu sou Carlos Henrique Gomes Batista 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/gato-digitando.gif" alt="Gato digitando no teclado" width="200" />
+  <iframe src="https://gifer.com/embed/7IjS" width=480 height=504.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
 </p>
 
 <p align="center">
