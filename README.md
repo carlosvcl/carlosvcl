@@ -1,8 +1,8 @@
 # Olá, eu sou Carlos Henrique Gomes Batista 👋
 
-<div align="center">
-  <iframe src="https://gifer.com/embed/7IjS" width=480 height=504.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
-</div>
+<p align="center">
+  <img src="https://i.gifer.com/7IjS.gif" alt="Gato digitando no teclado" width="200" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-gomes-6aba17226" target="_blank">
