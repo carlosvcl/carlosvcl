@@ -1,8 +1,9 @@
+# Olá, eu sou Carlos Henrique Gomes Batista 👋
+
 <div align="center">
   <img height="200" src="https://usagif.com/wp-content/uploads/cat-typing-16.gif"  />
 </div>
 
-# Olá, eu sou Carlos Henrique Gomes Batista 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
