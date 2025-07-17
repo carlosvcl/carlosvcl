@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://i.gifer.com/7IjS.gif"  />
-</div>
-
 # Olá, eu sou Carlos Henrique Gomes Batista 👋
 
 <p align="center">
