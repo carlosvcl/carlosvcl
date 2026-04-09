@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
 </p>
 
-Sou **Técnico de Suporte Nível 2** na Techcom Tecnologia e Informática e estudante de **Bacharelado em Sistemas de Informação** na Descomplica. Estou em busca de novas oportunidades para prosseguir com a carreira na área de informática, onde poderei aplicar minhas capacidades técnicas e minha busca por ideias inovadoras para impactar grandemente a equipe e os empreendimentos da organização.
+Sou **Técnico de Suporte Nível 1** no Senac Minas e estudante de **Bacharelado em Sistemas de Informação** na Descomplica. Estou em busca de novas oportunidades para prosseguir com a carreira na área de informática, onde poderei aplicar minhas capacidades técnicas e minha busca por ideias inovadoras para impactar grandemente a equipe e os empreendimentos da organização.
 
 ---
 
